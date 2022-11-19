@@ -48,4 +48,14 @@ The need for explainability is most often seen in three key applications that ar
 - A Machine Learning model can be considered interpretable if its inner workings can be grasped, even if the reasoning behind its operation remains a mystery.
 - Explainability is a theory that works with unseen facts while interpretability focuses on making sense of what is already there and visible.
 
+## Conclusion
+
+Through this article, we have:
+
+- gave the definition of Explainable Artificial intelligence
+- provide an example of a Learning Process
+- seen the need for explainable AI
+- seen the types of explanations
+- Settle the difference Between Interpretability and Explainability
+- Seen the techniques to make a ML model explainable
 
