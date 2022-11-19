@@ -11,6 +11,8 @@ As a result of recent innovations, machine learning algorithms have improved con
 The confidence we put in and use of these models might suffer as a result of our inability to fully grasp or explain them. How can we evaluate the possibility that model predictions are inaccurate? This is of paramount significance in industries where mistakes have severe consequences. How confident would a doctor be in a trained model's cancer prognosis if it had a 98 percent accuracy rate? What if, for whatever reason we don't know about, the model fails to detect the majority of malignant cases?
 The high accuracy can have been the result of data leakage in the training data, making predictions on new data far less accurate.
 
+![source](https://github.com/adrienpayong/object-detection/blob/main/interp.png)
+
 ## What is machine learning ?
 
 Without getting bogged down in the specifics of Machine Learning's origins within the larger context of AI, it's helpful to review a few key ideas to set the stage for Explainable AI's place in the field and to grasp, from a purely technical perspective, why the need for explainability is so urgent. 
