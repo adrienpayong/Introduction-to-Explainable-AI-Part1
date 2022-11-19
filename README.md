@@ -13,6 +13,8 @@ The high accuracy can have been the result of data leakage in the training data,
 
 ![source](https://github.com/adrienpayong/object-detection/blob/main/interp.png)
 
+[source](https://www.advancinganalytics.co.uk/blog/2021/7/14/shap)
+
 ## What is machine learning ?
 
 Without getting bogged down in the specifics of Machine Learning's origins within the larger context of AI, it's helpful to review a few key ideas to set the stage for Explainable AI's place in the field and to grasp, from a purely technical perspective, why the need for explainability is so urgent. 
