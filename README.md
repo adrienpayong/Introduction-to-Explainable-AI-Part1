@@ -13,7 +13,7 @@ The high accuracy can have been the result of data leakage in the training data,
 
 ![source](https://github.com/adrienpayong/object-detection/blob/main/interp.png)
 
-                      [source](https://www.advancinganalytics.co.uk/blog/2021/7/14/shap)
+                      https://www.advancinganalytics.co.uk/blog/2021/7/14/shap
 
 ## What is machine learning ?
 
