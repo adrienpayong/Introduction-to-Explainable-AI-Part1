@@ -31,4 +31,21 @@ It's not simple to define Explainable Artificial intelligence (also known as XAI
 Let's pretend that after training, the algorithm was able to identify between classes with impressive accuracy: Only one misclassification out of 200. But if we apply an Explainable AI technique and ask the model why it has predicted dog, it can provide us with an answer.
 - The capacity for a model to articulate its reasoning to people is a great feature. Those well-versed in Machine/Deep Learning can spot flaws in existing models and improve them without much effort. To solve this problem, we can use occlusions (when a portion of an image is obscured) as potential augmentations (when the same image is displayed in several forms).
 
+## The importance of Explainable AI
+
+Classification accuracy alone may not be enough to define and solve our real-world issue; it may not be helpful to know "the what" if we don't also know "the why," or how the model gets at its result. In these circumstances, the prediction is merely a piece of the puzzle. Classification accuracy isn't always excellent, and in most cases, domain-specific experts will remain indispensable in the creation of relevant metrics. 
+The need for explainability is most often seen in three key applications that are frequently paired with the prediction of a Machine Learning model:
+
+- Knowledge Discovery: This is the most challenging use case to comment on since it involves scenarios in which ML models are used not just to generate predictions but also to deepen one's familiarity with a particular process, event, or system.
+- Model validation: An explanation is required to determine whether a "Biased" dataset was used to train a Machine Learning model that can discriminate against certain groups of individuals. To properly investigate why an individual was denied a loan, there must be a way to "see inside the black box" and get the decision-making factors that were used for rejection.
+- Model debugging: If the ML model is to be trusted and resilient, it must provide for debugging, or the ability to see the inner workings of the algorithm that generates results. To make ML systems less vulnerable to assaults intended to fool them, modest changes in the inputs shouldn't result in large changes in the outputs.
+
+## Difference Between Interpretability and Explainability
+
+- To illustrate the difference between interpretability and explainability, consider a pot of water heating slowly over time until it boils, after which the temperature will remain constant.
+- The linear trend and the flat temperature beyond the boiling point would be well predicted by ML, but the mechanics of the phase change would remain a mystery.
+- Understanding how ML systems predict temperature changes over time in the steady-state regime is an example of interpretability; having an ML model that accounts for the changing state is an example of explainability.
+- A Machine Learning model can be considered interpretable if its inner workings can be grasped, even if the reasoning behind its operation remains a mystery.
+- Explainability is a theory that works with unseen facts while interpretability focuses on making sense of what is already there and visible.
+
 
